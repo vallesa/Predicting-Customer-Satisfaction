@@ -1,2 +1,7 @@
-# Predicting-Customer-Satisfaction
-Predicting Customer Satisfaction on a highly Imbalanced dataset
+#Predicting Customer Satisfaction on a highly Imbalanced dataset
+
+This is my capstone project for the Master of Science in Buisness Analytics from the University of Cincinnati
+Attached you will find a pdf doc with my project, as well as the R files that lead to the analysis
+
+Abstract
+From frontline support teams to C-suites, customer satisfaction is a key measure of success. Unhappy customers don't stick around. On this paper, we will compare logistic regression, classification tree, random forest and extreme gradient boosting models to predict whether a customer is satisfied or dissatisfied with their banking experience. Doing so would allow banks to take proactive steps to improve a customer's happiness before it's too late. The dataset was published in Kaggle by Santander bank, a Spanish banking group with operations across Europe, South America, North America and Asia. It is composed of 76020 observations and 371 variables that have been semi-anonymized to protect the client’s information. 96.05% of the customers are satisfied and only 3.95% are dissatisfied, making this classification problem to be highly imbalanced. Since most of the commonly used classification algorithms do not work well for imbalanced problems, we also compare in this paper two ways to deal with the imbalanced data classification issue. One is based on cost sensitive learning, and the other is based on a sampling technique. Both methods are shown to improve the prediction accuracy of the minority class, and have favorable performance comparing to the existing algorithms.
